@@ -3,6 +3,5 @@
     <keyboard-layout
         android:name="totem_es_iso_macos"
         android:keyboardLayout="@raw/totem_es_iso_macos"
-        android:label="@string/keyboard_layout_es_label"
-        android:locale="es-ES" />
+        android:label="@string/keyboard_layout_es_label" />
 </keyboard-layouts>
